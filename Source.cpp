@@ -1,5 +1,6 @@
 #include <SFML/Graphics.hpp>
 #include <Windows.h>
+#include <list>
 
 using namespace sf;
 
