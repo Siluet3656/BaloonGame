@@ -1,6 +1,0 @@
-C:\Users\User_vlad\source\repos\TP_labssolve\Debug\TP_labssolve.exe
-C:\Users\User_vlad\source\repos\TP_labssolve\Debug\TP_labssolve.pdb
-F:\TP_labssolve\Debug\TP_labssolve.exe
-F:\TP_labssolve\Debug\TP_labssolve.pdb
-A:\projects\Github\Ya_Repository\BaloonGame\Debug\TP_labssolve.exe
-A:\projects\Github\Ya_Repository\BaloonGame\Debug\TP_labssolve.pdb
